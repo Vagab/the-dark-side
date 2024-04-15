@@ -84,7 +84,7 @@
             "font_style": "italic"
           },
           "type.function": {
-            "color": "#9a77cf",
+            "color": "#E7AF49",
             "font_style": "italic"
           },
           "function.method": {
@@ -153,7 +153,7 @@
             "color": "#7755EE"
           },
           "type": {
-            "color": "#9a77cf",
+            "color": "#E7AF49",
             "font_style": "italic"
           },
           "variable.builtin": {
