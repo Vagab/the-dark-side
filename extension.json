@@ -1,7 +1,7 @@
 {
-  "name": "The Dark Side",
-  "version": "0.2.5",
-  "authors": ["Sai Gokula Krishnan <hi@gokula.dev>"],
-  "description": "Join the dark side.",
-  "repository": "https://github.com/Imgkl/the-dark-side"
+  "name": "The Dark Side (but with orange-ish types)",
+  "version": "0.1.0",
+  "authors": ["barseek <sergey.b@hey.com>"],
+  "description": "Join the dark side (but with orange-ish-types)",
+  "repository": "https://github.com/Vagab/the-dark-side/"
 }
